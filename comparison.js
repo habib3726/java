@@ -1,0 +1,10 @@
+// console.log(8 < 9);
+// console.log(8 > 9);
+// console.log(8 == 9);
+// console.log(8 == 8);
+// console.log(8 != 8);
+// console.log(6 != 8);
+// console.log(6 <= 8);
+// console.log(16 <= 16);
+// console.log(16 <= 6);
+console.log(6 >= 6);
